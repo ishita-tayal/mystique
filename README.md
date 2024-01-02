@@ -6,7 +6,7 @@ The customer part of the application allows them to browse through products, add
 <br><br>
 The admin part of the application allows executives from Mystique to access a list of all existing customers and products. An option of searching customers and products is also available.
 <br><br>
-It uses the following python modules: 
+<b>It uses the following python modules:</b> 
 <br>1. mysql.connector
 <br>2. tkinter
 <br>3. bcrypt
