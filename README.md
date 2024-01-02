@@ -15,4 +15,6 @@ It uses the following python modules:
 <br>6. pillow
 <br>7. forex_python
 <br>8. datetime
+<br><br>
+<b>HOW TO USE?<\b>
 
