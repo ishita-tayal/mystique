@@ -16,5 +16,8 @@ It uses the following python modules:
 <br>7. forex_python
 <br>8. datetime
 <br><br>
-<b>HOW TO USE?<\b>
-
+<b>HOW TO USE?</b><br>
+1. do "pip install [for each module mentioned above]"<br>
+2. install mysql and set the password as 'root'<br>
+3. run project.py<br>
+The username and password for the 'Mystique Executive' section are 'admin' and 'admin' respectively.
